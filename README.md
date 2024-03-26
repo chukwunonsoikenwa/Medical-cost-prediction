@@ -53,6 +53,10 @@ Ensure you have the following dependencies installed to run the code:
 - Matplotlib
 - Seaborn
 
+## Conclusion
+Linear regression was used and the accuracy score for this model was 75%. 
+
+
 ## Usage
 To use the model:
 1. Clone this repository to your local machine.
